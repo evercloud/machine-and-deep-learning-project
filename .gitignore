@@ -1,0 +1,26 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+*.executed.ipynb
+
+# Runtime/cache folders
+.keras/
+.mplconfig/
+Library/
+
+# Logs
+*.log
+nbconvert*.log
+
+# OS files
+.DS_Store
+
+# References
+_REFERENCES/
