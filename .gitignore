@@ -13,6 +13,7 @@ __pycache__/
 # Runtime/cache folders
 .keras/
 .mplconfig/
+.pydeps/
 Library/
 
 # Logs
