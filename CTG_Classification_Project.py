@@ -2,7 +2,7 @@
 # Dataset: Cardiotocography (UCI, ID: 193)
 # Goal: classify fetal cardiotocograms into 3 classes (Normal, Suspect, Pathologic).
 # Author: Claudio Scamporlino
-# Student ID: 0322500092
+# Student ID: [redacted for publication]
 #
 # Script roadmap:
 # 1. Feature analysis with PCA
